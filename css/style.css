@@ -8,6 +8,7 @@
 
 body {
     background: linear-gradient(rgb(148, 44, 44), rgb(36, 44, 161));
+    background-repeat: no-repeat;
     font-family: 'Roboto', sans-serif;
 }
 
