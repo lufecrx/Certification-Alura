@@ -10,7 +10,7 @@ A Imersão Dev da Alura é um evento especial e gratuito que nos proporciona um 
 
 ### 🎈 Portfolio
 
-Acesse o portfolio, contendo todos os projetos que fiz durante a Imersão, [clicando aqui](https://lufecrx.github.io/certification-alura/)
+Acesse o portfolio, contendo todos os projetos que fiz durante a Imersão, [clicando aqui](https://lufecrx.github.io/certification-alura/).
 
 <p align="center"><img src="https://images2.imgbox.com/8d/b9/nku7rYEr_o.png" alt="image host"/></p>
 
